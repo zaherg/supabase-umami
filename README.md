@@ -1,4 +1,4 @@
-# Umamin with Supabase support
+# Umami with Supabase support
 
 Umami does not use `directUrl` when configuring Prisma.
 
