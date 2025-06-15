@@ -1,5 +1,5 @@
 # Use the original image as the base
-FROM ghcr.io/umami-software/umami:postgresql-v2.17
+FROM ghcr.io/umami-software/umami:postgresql-v2
 
 # Set the working directory (adjust if necessary)
 WORKDIR /app
